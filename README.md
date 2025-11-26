@@ -7,4 +7,4 @@ I'm a passionate full-stack developer interested in React, Node.js, and machine 
 - 🌱 I’m learning more about AI & ML
 - 👯 I’m looking to collaborate on exciting open-source projects
 
-Check out my [projects](link-to-repositories)!
+Check out my [projects](https://github.com/sakxhii/sakxhii)!
